@@ -1,2 +1,2 @@
 # portfolio
-Simple Portfolio for Kenji Lee
+Simple portfolio for Kenji Lee
