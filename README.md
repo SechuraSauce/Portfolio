@@ -1,2 +1,2 @@
-# Portfolio
+# portfolio
 Simple Portfolio for Kenji Lee
